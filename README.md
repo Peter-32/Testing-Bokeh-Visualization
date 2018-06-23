@@ -1,6 +1,10 @@
 # Time-Series-Interactive-Visualization
 
-## Requirements
+## Purpose
+
+This project will use Flask and Bokeh to create an interactive time series visualization.
+
+## Development Requirements
 
 Install Python and Flask
 
