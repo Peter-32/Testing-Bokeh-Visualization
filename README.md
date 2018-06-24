@@ -2,18 +2,20 @@
 
 ## Purpose
 
-This project will use Flask and Bokeh to create an interactive time series visualization.
+This project is testing out Bokeh.
 
-## Development Requirements
+## Results
 
-Install Python and Flask
+I prefer to use the Seaborn library instead of Bokeh.
 
 ## How to Use
 
-Start flask with:
-    
-    FLASK_APP=hello.py flask run
+1. Run
 
-Visit the web page locally using the URL:
+    source venv/bin/activate
 
-    127.0.0.1:5000
+2. Create a IPython Kernel (https://anbasile.github.io/programming/2017/06/25/jupyter-venv/)
+
+3. Open the notebook
+
+    jupyter notebook

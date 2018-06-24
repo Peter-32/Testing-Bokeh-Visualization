@@ -1,1 +1,5 @@
 flask
+bokeh
+ipython
+pandas
+ipykernel
