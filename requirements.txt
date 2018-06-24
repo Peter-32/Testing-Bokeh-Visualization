@@ -3,3 +3,7 @@ bokeh
 ipython
 pandas
 ipykernel
+seaborn
+pandasql
+numpy
+matplotlib

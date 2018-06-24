@@ -9,7 +9,9 @@ This project was made to test the Python module Bokeh.
 
 ## Results
 
-I prefer to use the Seaborn library instead of Bokeh.
+I prefer the Seaborn, pandas, or matplotlib API.
+
+i.e. df.plot(y="sheep")
 
 ## How to Use
 
