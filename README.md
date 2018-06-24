@@ -4,6 +4,9 @@
 
 This project was made to test the Python module Bokeh.
 
+![Image 1](1.png)
+![Image 2](2.png)
+
 ## Results
 
 I prefer to use the Seaborn library instead of Bokeh.
