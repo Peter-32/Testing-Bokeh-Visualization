@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This project is testing out Bokeh.
+This project was made to test the Python module Bokeh.
 
 ## Results
 
