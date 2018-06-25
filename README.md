@@ -11,7 +11,7 @@ This project was made to test the Python module Bokeh.
 
 I prefer the Seaborn, pandas, or matplotlib API.
 
-i.e. df.plot(y="sheep")
+i.e. df.plot(y="sheep", x="sqldate")
 
 ## How to Use
 

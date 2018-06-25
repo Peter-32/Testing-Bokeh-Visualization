@@ -7,3 +7,4 @@ seaborn
 pandasql
 numpy
 matplotlib
+networkx
